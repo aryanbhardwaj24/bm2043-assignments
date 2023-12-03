@@ -1,0 +1,2 @@
+# bm2043-assignments
+This repo consists of my submissions for the assignments of the BM2043 course (Algorithms and Data Structures Lab) for my third semester at the Indian Institute of Technology, Hyderabad.
